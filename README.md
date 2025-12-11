@@ -252,10 +252,10 @@ Detailed technical documentation:
 
 | Document | Description |
 |----------|-------------|
-| [Architecture](docs/ARCHITECTURE.md) | System design, database schema, security layers |
-| [AI Features](docs/AI_FEATURES.md) | AI assistant, OCR pipeline, function calling |
-| [API Reference](docs/API_REFERENCE.md) | 100+ endpoints with examples |
-| [Project Management](docs/PROJECT_MANAGEMENT.md) | PMI framework, sprints, WBS, risk management |
+| [Architecture](ARCHITECTURE.md) | System design, database schema, security layers |
+| [AI Features](AI_FEATURES.md) | AI assistant, OCR pipeline, function calling |
+| [API Reference](API_REFERENCE.md) | 100+ endpoints with examples |
+| [Project Management](PROJECT_MANAGEMENT.md) | PMI framework, sprints, WBS, risk management |
 
 ---
 
