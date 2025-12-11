@@ -246,6 +246,63 @@ This project was built in **under 30 days** as a solo developer:
 
 ---
 
+## Documentation
+
+Detailed technical documentation:
+
+| Document | Description |
+|----------|-------------|
+| [Architecture](docs/ARCHITECTURE.md) | System design, database schema, security layers |
+| [AI Features](docs/AI_FEATURES.md) | AI assistant, OCR pipeline, function calling |
+| [API Reference](docs/API_REFERENCE.md) | 100+ endpoints with examples |
+
+---
+
+## Project Stats
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│                    PROJECT METRICS                              │
+├────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   📁 Backend (Python)                                          │
+│      ├── 11 modules                                            │
+│      ├── 100+ API endpoints                                    │
+│      ├── 23 database migrations                                │
+│      └── 35+ test files                                        │
+│                                                                 │
+│   🎨 Frontend (TypeScript)                                     │
+│      ├── 43 pages                                              │
+│      ├── 87 components                                         │
+│      └── Full dark/light theme                                 │
+│                                                                 │
+│   🤖 AI Integration                                            │
+│      ├── OpenAI GPT-4 (Assistant)                              │
+│      ├── Google Gemini Vision (OCR)                            │
+│      └── 15+ function tools                                    │
+│                                                                 │
+│   📊 Database                                                  │
+│      ├── 25+ tables                                            │
+│      ├── Multi-tenant isolation                                │
+│      └── Row-level security                                    │
+│                                                                 │
+└────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Why This Project Matters
+
+This project demonstrates:
+
+1. **Full-Stack Expertise** - Complete system from database to UI
+2. **AI Integration** - Production-ready LLM with function calling
+3. **Domain Complexity** - Tax regulations, accounting standards, compliance
+4. **Speed of Delivery** - Complex SaaS in under 30 days
+5. **Enterprise Patterns** - Multi-tenancy, audit trails, security
+
+---
+
 ## License
 
 This project is proprietary software. Screenshots and documentation may be shared for portfolio purposes.
