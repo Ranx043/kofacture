@@ -256,7 +256,6 @@ Detailed technical documentation:
 | [AI Features](AI_FEATURES.md) | AI assistant, OCR pipeline, function calling |
 | [API Reference](API_REFERENCE.md) | 100+ endpoints with examples |
 | [Project Management](PROJECT_MANAGEMENT.md) | PMI framework, sprints, WBS, risk management |
-| [Portfolio Guide](PORTFOLIO_GUIDE.md) | How to create a stellar portfolio repository |
 
 ---
 
